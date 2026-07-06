@@ -1133,7 +1133,6 @@
       " gen art"
     ],
     "contributors": [
-     "contributors": [
       { "id": "1", "name": "arttseng", "avatar": "AR" },
       { "id": "2", "name": "Yii", "avatar": "YI" },
       { "id": "3", "name": "NewYellow", "avatar": "NY" }
@@ -1160,11 +1159,9 @@
       "gen art"
     ],
     "contributors": [
-      {
-        "id": "1",
-        "name": "Atung",
-        "avatar": "AT"
-      }
+      { "id": "1", "name": "arttseng", "avatar": "AR" },
+      { "id": "2", "name": "Yii", "avatar": "YI" },
+      { "id": "3", "name": "Atung", "avatar": "AT" }
     ],
     "attributes": [],
     "owners": [],
@@ -1225,11 +1222,9 @@
       "NFT"
     ],
     "contributors": [
-      {
-        "id": "1",
-        "name": "Aluan Wang",
-        "avatar": "AW"
-      }
+      { "id": "1", "name": "arttseng", "avatar": "AR" },
+      { "id": "2", "name": "Yii", "avatar": "YI" },
+      { "id": "3", "name": "Aluan", "avatar": "AL" }
     ],
     "attributes": [
       {
