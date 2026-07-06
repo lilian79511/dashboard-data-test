@@ -690,7 +690,7 @@
   {
     "id": "18678779685024154136431558951144620663242752-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
-    "image": "https://fabdaotw.github.io/dashboard-data/image/18678779685024154136431558951144620663242752-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
+    "image": "https://fabdaotw.github.io/dashboard-data/image/FAB DAO artbank collector sharing - Jon Cates_18678779685024154136431558951144620663242752-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
     "timeline": "2025-05-06 → 2025-05-07",
     "description": "Spearker: Jon Cates\nInterpretation: Tai mei\n\nIntroduction of glitch art\n\nJon Cates profile:\nhttps://docs.google.com/document/d/1yxvgCbFaazStNKMEclMN9HoSCNHXiWrR5lN4pBh6GoY/edit?tab=t.0",
@@ -1105,6 +1105,43 @@
     ],
     "owners": [],
     "exploreLink": "https://www.fxhash.xyz/u/Atungg",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
+  },
+  {
+    "id": "",
+    "name": "FAB DAO artbank collector sharing - 佩麗 (Peili)",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/FAB DAO artbank collector sharing - Peili_0x16bA53B74c234C870c61EFC04cD418B8f2865959-110251486882384062162133372807892900511744.png",
+    "org": "Art Bank",
+    "timeline": "2025-10-28 → 2025-10-29",
+    "description": "PEILI 以版畫創作，接觸區塊鏈後，也學了寫程式，上架鏈上的 NFT 作品賣飛、得到若水獎；2026 年將駐村德勒斯登（駐村計劃獲國家文化藝術基金會補助）。\n\nhttps://x.com/PeiliHuang\n\nhttps://drive.google.com/file/d/1pyrFEuHu8Ztak55yEfi9izVpW5T19jBe/view?usp=sharing",
+    "work_scope": [
+      "FAB DAO",
+      "NFT",
+      "Peili",
+      "gen art"
+    ],
+    "contributors": [
+      {
+        "id": "1",
+        "name": "arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "2",
+        "name": "Yii",
+        "avatar": "YI"
+      },
+      {
+        "id": "3",
+        "name": "Peili",
+        "avatar": "PE"
+      }
+    ],
+    "owners": [],
+    "exploreLink": "https://www.youtube.com/watch?v=TYa4-cnJMws",
     "minter": {
       "name": "",
       "avatar": ""
