@@ -1126,13 +1126,17 @@
     "org": "Art Bank",
     "timeline": "2025-07-22 → 2025-07-23",
     "description": "Speaker: NewYellow\n\nhttps://x.com/newyellow2\n\ndiscord 錄影版：https://www.youtube.com/watch?v=isQa_V99qco\n沉浸簡報版：https://www.youtube.com/watch?v=TaW7XlDGAnw",
-    "work_scope": [],
+    "work_scope": [
+      "FAB DAO",
+      " NFT",
+      " newyellow",
+      " gen art"
+    ],
     "contributors": [
-      {
-        "id": "1",
-        "name": "NewYellow",
-        "avatar": "NE"
-      }
+     "contributors": [
+      { "id": "1", "name": "arttseng", "avatar": "AR" },
+      { "id": "2", "name": "Yii", "avatar": "YI" },
+      { "id": "3", "name": "NewYellow", "avatar": "NY" }
     ],
     "attributes": [],
     "owners": [],
