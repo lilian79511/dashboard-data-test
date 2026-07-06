@@ -999,27 +999,27 @@
         "name": "",
         "avatar": ""
     }
-  },
-  {
-    "id": "108550075047779369844816499770734059454464",
-    "name": "FAB DAO artbank collector sharing - Atung",
-    "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-108550075047779369844816499770734059454464.png",
-    "org": "Art Bank",
-    "timeline": "",
-    "description": "Speaker: Atung\n\nhttps://www.fxhash.xyz/u/Atungg\n\ndocs.google.com/presentation/u/0/d/1ErvbhN7Xwz_bJ-A6Ip1Am7lyX1Na2std",
-    "work_scope": [],
-    "contributors": [
-      {
-        "id": "1",
-        "name": "Atung",
-        "avatar": "AT"
+    },
+    {
+      "id": "108550075047779369844816499770734059454464",
+      "name": "FAB DAO artbank collector sharing - Atung",
+      "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-108550075047779369844816499770734059454464.png",
+      "org": "Art Bank",
+      "timeline": "",
+      "description": "Speaker: Atung\n\nhttps://www.fxhash.xyz/u/Atungg\n\ndocs.google.com/presentation/u/0/d/1ErvbhN7Xwz_bJ-A6Ip1Am7lyX1Na2std",
+      "work_scope": [],
+      "contributors": [
+        {
+          "id": "1",
+          "name": "Atung",
+          "avatar": "AT"
+        }
+      ],
+      "owners": [],
+      "exploreLink": "https://www.fxhash.xyz/u/Atungg",
+      "minter": {
+        "name": "",
+        "avatar": ""
       }
-    ],
-    "owners": [],
-    "exploreLink": "https://www.fxhash.xyz/u/Atungg",
-    "minter": {
-      "name": "",
-      "avatar": ""
     }
-  }
 ]
