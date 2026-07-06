@@ -1124,7 +1124,7 @@
     "name": "FAB DAO artbank collector sharing - Aluan Wang",
     "image": "http://lilian79511.github.io/dashboard-data-test/image/Aluan_0x16bA53B74c234C870c61EFC04cD418B8f2865959-109570922148542185235206623593029364088832.png",
     "org": "Art Bank",
-    "timeline": "",
+    "timeline": "2025-09-09 → 2025-09-10",
     "description": "Speaker: 阿亂(Aluan Wang)\n\nhttps://aluanwang.com/",
     "work_scope": [
       "FAB DAO",
@@ -1133,6 +1133,8 @@
     ],
     "contributors": [
       { "id": "1", "name": "Aluan Wang", "avatar": "AW" }
+      { "id": "2", "name": "arttseng", "avatar": "AT" },
+      { "id": "3", "name": "Yii", "avatar": "YI" },
     ],
     "owners": [],
     "exploreLink": "https://aluanwang.com/",
