@@ -1021,6 +1021,19 @@
     "minter": {
       "name": "",
       "avatar": ""
+    },
+    {
+      "name": "FAB DAO artbank collector sharing - Aluan Wang",
+      "description": "Speaker: 阿亂(Aluan Wang)\n\nhttps://aluanwang.com/",
+      "image": "http://lilian79511.github.io/dashboard-data-test/image/Aluan_0x16bA53B74c234C870c61EFC04cD418B8f2865959-109570922148542185235206623593029364088832.png",
+      "attributes": [
+        {
+          "trait_type": "Speaker",
+          "value": "阿亂(Aluan Wang)"
+        },
+        {
+          "trait_type": "Website",
+          "value": "https://aluanwang.com/"
     }
-  }
-]
+  ]
+}
