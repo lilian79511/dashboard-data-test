@@ -55,6 +55,7 @@
         "avatar": "FD"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -121,6 +122,7 @@
         "avatar": "NY"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -236,6 +238,7 @@
         "avatar": "DK"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -418,6 +421,7 @@
         "avatar": "0X"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -534,6 +538,7 @@
         "avatar": "0X"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -572,6 +577,7 @@
         "avatar": "FA"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -674,6 +680,7 @@
         "avatar": "JF"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -722,6 +729,7 @@
         "avatar": "TM"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0x1bdc71771e1c36e2aead690dc7103834f4812721bc454581bced820ab07ce8b7",
     "minter": {
@@ -759,6 +767,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -812,6 +821,7 @@
         "avatar": "ST"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0x4b586032db7a056d6c27e7bb55ed4567504fbf2c5d7c6b17d5aa9f7bcf5f9d14",
     "minter": {
@@ -820,7 +830,7 @@
     }
   },
   {
-    "id": "18679800532124916951821949074966915967877120-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
+    "id": "18679800532124916951821949074966915967877120-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07-dup1",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
     "image": "https://fabdaotw.github.io/dashboard-data/image/18679800532124916951821949074966915967877120-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
@@ -844,6 +854,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -863,7 +874,7 @@
     }
   },
   {
-    "id": "18680140814491837890285412449574347736088576-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
+    "id": "18680140814491837890285412449574347736088576-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07-dup1",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
     "image": "https://fabdaotw.github.io/dashboard-data/image/18680140814491837890285412449574347736088576-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
@@ -892,6 +903,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [
       {
         "id": "1",
@@ -906,7 +918,7 @@
     }
   },
   {
-    "id": "18680481096858758828748875824181779504300032-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
+    "id": "18680481096858758828748875824181779504300032-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07-dup1",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
     "image": "https://fabdaotw.github.io/dashboard-data/image/18680481096858758828748875824181779504300032-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
@@ -935,6 +947,7 @@
         "avatar": "YI"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0xe58d8a902b164e386c2bb69d2a6a93b9acecb3b8558dbbcf317b1e20838702ea",
     "minter": {
@@ -943,7 +956,7 @@
     }
   },
   {
-    "id": "18679800532124916951821949074966915967877120-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
+    "id": "18679800532124916951821949074966915967877120-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07-dup2",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
     "image": "https://fabdaotw.github.io/dashboard-data/image/18679800532124916951821949074966915967877120-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
@@ -956,12 +969,29 @@
       " gen art"
     ],
     "contributors": [
-      { "id": "1", "name": "arttseng", "avatar": "AT" },
-      { "id": "2", "name": " Yii", "avatar": "YI" }
+      {
+        "id": "1",
+        "name": "arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "2",
+        "name": " Yii",
+        "avatar": "YI"
+      }
     ],
+    "attributes": [],
     "owners": [
-      { "id": "1", "name": "arttseng.eth", "percentage": "50%" },
-      { "id": "2", "name": "0x2c5f6ac6bE2E5A25fFc667984088E7b979f52267", "percentage": "50%" }
+      {
+        "id": "1",
+        "name": "arttseng.eth",
+        "percentage": "50%"
+      },
+      {
+        "id": "2",
+        "name": "0x2c5f6ac6bE2E5A25fFc667984088E7b979f52267",
+        "percentage": "50%"
+      }
     ],
     "exploreLink": "https://explorer.optimism.io/tx/0x6ac2dee96722fe4a8f89095218d4c984cbbbeeab2e755bf5f0a17461814c158a",
     "minter": {
@@ -970,7 +1000,7 @@
     }
   },
   {
-    "id": "18680140814491837890285412449574347736088576-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
+    "id": "18680140814491837890285412449574347736088576-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07-dup2",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
     "image": "https://fabdaotw.github.io/dashboard-data/image/18680140814491837890285412449574347736088576-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
@@ -983,12 +1013,29 @@
       " gen art"
     ],
     "contributors": [
-      { "id": "1", "name": "ssshihtung", "avatar": "ST" },
-      { "id": "2", "name": " arttseng", "avatar": "AT" },
-      { "id": "3", "name": " Yii", "avatar": "YI" }
+      {
+        "id": "1",
+        "name": "ssshihtung",
+        "avatar": "ST"
+      },
+      {
+        "id": "2",
+        "name": " arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "3",
+        "name": " Yii",
+        "avatar": "YI"
+      }
     ],
+    "attributes": [],
     "owners": [
-      { "id": "1", "name": "ssshihtung.eth", "percentage": "100%" }
+      {
+        "id": "1",
+        "name": "ssshihtung.eth",
+        "percentage": "100%"
+      }
     ],
     "exploreLink": "https://explorer.optimism.io/tx/0x8316a1b6737520a440b302ccd84cf89ac28e78f66dab8269b66539f1963ac108",
     "minter": {
@@ -997,7 +1044,7 @@
     }
   },
   {
-    "id": "18680481096858758828748875824181779504300032-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07",
+    "id": "18680481096858758828748875824181779504300032-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07-dup2",
     "name": "FAB DAO artbank collector sharing 藏家收藏分享",
     "image": "https://fabdaotw.github.io/dashboard-data/image/18680481096858758828748875824181779504300032-10-0x822F17A9A5EeCFd66dBAFf7946a8071C265D1d07.png",
     "org": "Art Bank",
@@ -1010,10 +1057,23 @@
       " gen art"
     ],
     "contributors": [
-      { "id": "1", "name": "FrankHu", "avatar": "FH" },
-      { "id": "2", "name": " arttseng", "avatar": "AT" },
-      { "id": "3", "name": " Yii", "avatar": "YI" }
+      {
+        "id": "1",
+        "name": "FrankHu",
+        "avatar": "FH"
+      },
+      {
+        "id": "2",
+        "name": " arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "3",
+        "name": " Yii",
+        "avatar": "YI"
+      }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://explorer.optimism.io/tx/0xe58d8a902b164e386c2bb69d2a6a93b9acecb3b8558dbbcf317b1e20838702ea",
     "minter": {
@@ -1035,10 +1095,23 @@
       "gen art"
     ],
     "contributors": [
-      { "id": "1", "name": "arttseng", "avatar": "AT" },
-      { "id": "2", "name": "Yii", "avatar": "YI" },
-      { "id": "3", "name": "DuaneAng", "avatar": "DU" }
+      {
+        "id": "1",
+        "name": "arttseng",
+        "avatar": "AT"
+      },
+      {
+        "id": "2",
+        "name": "Yii",
+        "avatar": "YI"
+      },
+      {
+        "id": "3",
+        "name": "DuaneAng",
+        "avatar": "DU"
+      }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://www.youtube.com/watch?v=odZ5zVxXbw0",
     "minter": {
@@ -1055,8 +1128,13 @@
     "description": "Speaker: NewYellow\n\nhttps://x.com/newyellow2\n\ndiscord 錄影版：https://www.youtube.com/watch?v=isQa_V99qco\n沉浸簡報版：https://www.youtube.com/watch?v=TaW7XlDGAnw",
     "work_scope": [],
     "contributors": [
-      { "id": "1", "name": "NewYellow", "avatar": "NE" }
+      {
+        "id": "1",
+        "name": "NewYellow",
+        "avatar": "NE"
+      }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://x.com/newyellow2",
     "minter": {
@@ -1071,10 +1149,20 @@
     "org": "Art Bank",
     "timeline": "2025-06-06 → 2025-06-07",
     "description": "Speaker: Atung\n\nhttps://www.fxhash.xyz/u/Atungg\n\ndocs.google.com/presentation/u/0/d/1ErvbhN7Xwz_bJ-A6Ip1Am7lyX1Na2std",
-    "work_scope": "FAB DAO, NFT, Atung, gen art",
-    "contributors": [
-      { "id": "1", "name": "Atung", "avatar": "AT" }
+    "work_scope": [
+      "FAB DAO",
+      "NFT",
+      "Atung",
+      "gen art"
     ],
+    "contributors": [
+      {
+        "id": "1",
+        "name": "Atung",
+        "avatar": "AT"
+      }
+    ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://www.fxhash.xyz/u/Atungg",
     "minter": {
@@ -1112,6 +1200,7 @@
         "avatar": "PE"
       }
     ],
+    "attributes": [],
     "owners": [],
     "exploreLink": "https://www.youtube.com/watch?v=TYa4-cnJMws",
     "minter": {
@@ -1132,14 +1221,12 @@
       "NFT"
     ],
     "contributors": [
-      { "id": "1", "name": "Aluan Wang", "avatar": "AW" }
+      {
+        "id": "1",
+        "name": "Aluan Wang",
+        "avatar": "AW"
+      }
     ],
-    "owners": [],
-    "exploreLink": "https://aluanwang.com/",
-    "minter": {
-      "name": "",
-      "avatar": ""
-    },
     "attributes": [
       {
         "trait_type": "Speaker",
@@ -1149,6 +1236,12 @@
         "trait_type": "Website",
         "value": "https://aluanwang.com/"
       }
-    ]
+    ],
+    "owners": [],
+    "exploreLink": "https://aluanwang.com/",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
   }
 ]
