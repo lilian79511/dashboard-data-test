@@ -942,7 +942,7 @@
       "avatar": "0X"
     }
   },
-  {
+{
     "id": "0x16bA53B74c234C870c61EFC04cD418B8f2865959-109911204515463123698669998200461132300288",
     "name": "FAB DAO artbank collector sharing - 敦遠(Duane Ang)",
     "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-109911204515463123698669998200461132300288.png",
@@ -977,49 +977,50 @@
     "minter": {
       "name": "",
       "avatar": ""
-    },
-    {
-      "id": "109230639781621246771743248985597595877376",
-      "name": "FAB DAO artbank collector sharing - NewYellow",
-      "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-109230639781621246771743248985597595877376.png",
-      "org": "Art Bank",
-      "timeline": "",
-      "description": "Speaker: NewYellow\n\nhttps://x.com/newyellow2\n\ndiscord 錄影版：https://www.youtube.com/watch?v=isQa_V99qco\n沉浸簡報版：https://www.youtube.com/watch?v=TaW7XlDGAnw",
-      "work_scope": [],
-      "contributors": [
-        {
-          "id": "1",
-          "name": "NewYellow",
-          "avatar": "NE"
-        }
-      ],
-      "owners": [],
-      "exploreLink": "https://x.com/newyellow2",
-      "minter": {
-        "name": "",
-        "avatar": ""
     }
-    },
-    {
-      "id": "108550075047779369844816499770734059454464",
-      "name": "FAB DAO artbank collector sharing - Atung",
-      "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-108550075047779369844816499770734059454464.png",
-      "org": "Art Bank",
-      "timeline": "",
-      "description": "Speaker: Atung\n\nhttps://www.fxhash.xyz/u/Atungg\n\ndocs.google.com/presentation/u/0/d/1ErvbhN7Xwz_bJ-A6Ip1Am7lyX1Na2std",
-      "work_scope": [],
-      "contributors": [
-        {
-          "id": "1",
-          "name": "Atung",
-          "avatar": "AT"
-        }
-      ],
-      "owners": [],
-      "exploreLink": "https://www.fxhash.xyz/u/Atungg",
-      "minter": {
-        "name": "",
-        "avatar": ""
+  },
+  {
+    "id": "109230639781621246771743248985597595877376",
+    "name": "FAB DAO artbank collector sharing - NewYellow",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-109230639781621246771743248985597595877376.png",
+    "org": "Art Bank",
+    "timeline": "",
+    "description": "Speaker: NewYellow\n\nhttps://x.com/newyellow2\n\ndiscord 錄影版：https://www.youtube.com/watch?v=isQa_V99qco\n沉浸簡報版：https://www.youtube.com/watch?v=TaW7XlDGAnw",
+    "work_scope": [],
+    "contributors": [
+      {
+        "id": "1",
+        "name": "NewYellow",
+        "avatar": "NE"
       }
+    ],
+    "owners": [],
+    "exploreLink": "https://x.com/newyellow2",
+    "minter": {
+      "name": "",
+      "avatar": ""
     }
+  },
+  {
+    "id": "108550075047779369844816499770734059454464",
+    "name": "FAB DAO artbank collector sharing - Atung",
+    "image": "http://lilian79511.github.io/dashboard-data-test/image/0x16bA53B74c234C870c61EFC04cD418B8f2865959-108550075047779369844816499770734059454464.png",
+    "org": "Art Bank",
+    "timeline": "",
+    "description": "Speaker: Atung\n\nhttps://www.fxhash.xyz/u/Atungg\n\ndocs.google.com/presentation/u/0/d/1ErvbhN7Xwz_bJ-A6Ip1Am7lyX1Na2std",
+    "work_scope": [],
+    "contributors": [
+      {
+        "id": "1",
+        "name": "Atung",
+        "avatar": "AT"
+      }
+    ],
+    "owners": [],
+    "exploreLink": "https://www.fxhash.xyz/u/Atungg",
+    "minter": {
+      "name": "",
+      "avatar": ""
+    }
+  }
 ]
